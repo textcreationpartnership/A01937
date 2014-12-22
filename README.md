@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The man for heaven A sermon preached at the court to his Majesties houshold, anno Domini, 1637. By I
+Imprimatur.THOMAS WYKES.Octob. 9. 1638.
 #####Body#####
-The man for heaven A sermon preached at the court to his Majesties houshold, anno Domini, 1637. By I
+
+1. The Man for Heaven.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
